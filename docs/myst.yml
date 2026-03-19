@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8bbb6e43-0e92-445d-884a-dc291ee6878e
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/gaojiao/ros2-course
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
