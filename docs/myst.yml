@@ -19,6 +19,9 @@ project:
     - file: 7.param.md
     - file: 8.launch.md
     - file: 9.tools.md
+    - file: 10.perception.md
+    - file: 11.control.md
+    - file: 12.autofollow.md
     
 site:
   template: book-theme
