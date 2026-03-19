@@ -1,0 +1,13 @@
+site_name: ROS 2课程
+nav:
+    - 首页: index.md  # 如果你没有index.md，需要创建一个作为主页
+    - 01.绪论: 01.绪论.md
+    - 02.Ubuntu基础: 02.Ubuntu基础.md
+    - 03.Python基础: 03.Python基础.md
+    - 04.ROS2安装及功能初探: 04.ROS2安装及功能初探.md
+    - 05.发布者与订阅者: 05.发布者与订阅者.md
+    - 06.服务: 06.服务.md
+    - 07.参数: 07.参数.md
+    - 08.Launch文件: 08.Launch文件.md
+    - 09.工具集: 09.工具集.md
+theme: readthedocs  # 使用与Read the Docs风格一致的主题
