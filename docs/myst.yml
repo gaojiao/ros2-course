@@ -23,7 +23,9 @@ project:
     - file: 11.control.md
     - file: 12.autofollow.md
     - file: 13.tf.md
-    
+    - file: 14.urdf.md
+    - file: 15.moveit.md
+
 site:
   template: book-theme
   # options:
